@@ -1,0 +1,2 @@
+# Sentiment
+sentimentAnalysis in R
